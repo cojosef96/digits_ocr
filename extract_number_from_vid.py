@@ -35,7 +35,7 @@ def run_tesseract(img):
 
 
 if __name__ == "__main__":
-    video_file = "numbers_sequense.mp4"
+    video_file = "numbers_sequence.mp4"
 
     cap = cv2.VideoCapture(video_file)
 
